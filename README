@@ -1,1 +1,7 @@
-<h1> Base de Dados de Futebol </h1>
+# ⚽ Base de Dados de Futebol
+
+Este projeto consiste no desenvolvimento de uma base de dados relacional para a gestão de informação relacionada com o futebol. A estrutura foi concebida para armazenar dados de equipas e jogadores, aplicando conceitos fundamentais de modelação de bases de dados.
+
+Foram inseridas 6 equipas e 12 jogadores para simular um ambiente desportivo real, permitindo a realização de consultas e operações sobre os dados armazenados. O projeto inclui a definição de tabelas, relações entre entidades, chaves primárias e chaves estrangeiras, garantindo a integridade e consistência da informação.
+
+O principal objetivo é demonstrar a criação e gestão de uma base de dados funcional utilizando SQL, servindo como exemplo prático para fins académicos e de aprendizagem.
